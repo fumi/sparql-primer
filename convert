@@ -1,0 +1,1 @@
+pandoc -s --toc -t html5 -o output.html doc/*
